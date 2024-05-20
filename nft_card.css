@@ -1,0 +1,85 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Outfit", sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+
+.container {
+  background-color: hsl(216, 50%, 16%);
+  width: 300px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.first-img {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+p {
+  color: hsl(215, 51%, 70%);
+}
+hr {
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.section-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.one p {
+  color: cyan;
+  margin: 10px 0px;
+}
+
+.one {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.one img {
+  margin-right: 5px;
+}
+
+.two {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.two img {
+  margin-right: 5px;
+}
+
+footer img {
+  width: 20px;
+  height: 20px;
+  border: 2px solid;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+}
+
+span {
+  color: white;
+}
+
+footer p {
+  margin: 10px 0px;
+}
+
+.two p {
+  margin: 10px 0px;
+}
